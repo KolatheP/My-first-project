@@ -1,0 +1,91 @@
+.overall{
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    margin-left: 350px;
+    margin-top: 110px;
+    border-radius: 16px;
+    display: flex;
+    flex: 50%;
+}
+.first{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.perf{
+    
+    background-color: whitesmoke;
+    flex:50%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.fume{
+    margin-left: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    opacity: inherit;
+    margin-top: 30px;
+    opacity: 0.5;
+}
+.gabrielle{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 0;
+    margin-left: 35px;
+    font-weight: bolder;
+    line-height: 30%;
+    font-size: 35px;
+    
+}
+.afloral{
+    margin-left: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 35px;
+    opacity: 0.5;
+    font-size: 19px;
+    line-height: 29px;
+    
+    
+}
+.dollar{
+    margin-left: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 39px;
+    color: rgb(66, 142, 94);
+    line-height: 200%;
+    
+}
+.del{
+    font-size: 18px;
+    color: black;
+    margin-left: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.3;
+    vertical-align: middle;
+
+    
+}
+
+
+.add{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight:700;
+    width: 290px;
+    height: 50px;
+    margin-left: 35px;
+    background-color: rgb(66, 142, 94);
+    border: none;
+    border-radius: 10px;
+    
+
+}
+.image{
+    vertical-align: middle; 
+}
+*{
+    box-sizing: border-box;
+}
